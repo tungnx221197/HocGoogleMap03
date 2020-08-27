@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HocGoogleMap03</string>
+    <string name="map_api_key">AIzaSyC0Fxdnqjb2nww8dBPA0gpon_T-7oosG78</string>
+    <string-array name="maps_type">
+        <item >MAP_TYPE_NONE</item>
+        <item >MAP_TYPE_NORMAL</item>
+        <item >MAP_TYPE_SATELLITE</item>
+        <item >MAP_TYPE_HYBRID</item>
+        <item >MAP_TYPE_TERRAIN</item>
+    </string-array>
+</resources>
